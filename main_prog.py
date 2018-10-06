@@ -1,7 +1,7 @@
 import threading
 from queue import Queue
 from Crawler import Spider
-from domain import *
+from domain_name import *
 from general import *
 
 PROJECT_NAME = 'viper-seo'
